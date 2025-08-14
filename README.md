@@ -1,1 +1,1 @@
-Ecdotica = Modified Nimbus15 [Times-like, "ztm-Reg" + "ztm-RegIt"] with the TironianEt (U+204A) and OldStyle figures, was combinated with IFAO Grec Unicode of Jean-Luc Fournet, and the combination, correcting the kerning and other things, produces "Ecdotica", a simple font Times-like for textual criticism.
+Ecdotica = modified XITS with the TironianEt (U+204A) was combinated with IFAO Grec Unicode of Jean-Luc Fournet; the combination, correcting the kerning and other things, produce "Ecdotica", a simple font Times-like for textual criticism.
