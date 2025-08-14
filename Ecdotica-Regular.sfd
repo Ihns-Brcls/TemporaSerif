@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1755194537
+ModificationTime: 1755214628
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -162,7 +162,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 29 11
+WinInfo: 1363 29 11
 BeginPrivate: 6
 BlueValues 23 [-14 0 450 460 662 676]
 BlueShift 1 6
@@ -171,7 +171,7 @@ StdVW 4 [66]
 StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 EndPrivate
-BeginChars: 1114351 4140
+BeginChars: 1114351 4141
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -20664,11 +20664,11 @@ HStem: 770 50<-480 20 -480 20>
 LayerCount: 2
 Fore
 SplineSet
-20 770 m 1
- -480 770 l 1
- -480 820 l 1
- 20 820 l 1
- 20 770 l 1
+20 770 m 5
+ -480 770 l 5
+ -480 820 l 5
+ 20 820 l 5
+ 20 770 l 5
 EndSplineSet
 EndChar
 
@@ -175478,6 +175478,22 @@ Width: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+EndChar
+
+StartChar: uni035E
+Encoding: 862 862 4140
+Width: 0
+Flags: W
+HStem: 770 50<-906 -3>
+LayerCount: 2
+Fore
+SplineSet
+-3 770 m 5
+ -906 770 l 5
+ -906 820 l 5
+ -3 820 l 5
+ -3 770 l 5
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
