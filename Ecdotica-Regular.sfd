@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1755214628
+ModificationTime: 1755296204
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -162,7 +162,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1363 29 11
+WinInfo: 1114035 29 11
 BeginPrivate: 6
 BlueValues 23 [-14 0 450 460 662 676]
 BlueShift 1 6
@@ -167972,31 +167972,31 @@ EndChar
 
 StartChar: three.onum
 Encoding: 1114148 -1 3937
-Width: 416
+Width: 526
 GlyphClass: 2
-Flags: MW
-HStem: -198 36<96.5 147.5> 385 39<124 176.5>
-VStem: 238 80<262.5 314.5> 257 99<-66 25>
+Flags: HMW
+HStem: -198 36<196.5 247.5> 385 39<224 276.5>
+VStem: 338 80<262.5 314.5> 357 99<-66 25>
 LayerCount: 2
 Fore
 SplineSet
-10 320 m 1xe0
- -7 327 l 1
- 27 392 97 424 151 424 c 0
- 266 424 318 361 318 294 c 0xe0
- 318 231 280 181 211 162 c 1
- 293 141 356 72 356 -4 c 0
- 356 -128 219 -198 76 -198 c 0
- 11 -198 -24 -183 -41 -168 c 0
- -53 -157 -60 -143 -60 -132 c 0
- -60 -116 -45 -103 -17 -103 c 0
- 42 -103 65 -162 128 -162 c 0
- 199 -162 257 -112 257 -35 c 0xd0
- 257 85 142 124 64 124 c 1
- 64 142 l 1
- 186 142 238 215 238 286 c 0
- 238 343 211 385 142 385 c 0
- 100 385 45 374 10 320 c 1xe0
+110 320 m 1xe0
+ 93 327 l 1
+ 127 392 197 424 251 424 c 0
+ 366 424 418 361 418 294 c 0xe0
+ 418 231 380 181 311 162 c 1
+ 393 141 456 72 456 -4 c 0
+ 456 -128 319 -198 176 -198 c 0
+ 111 -198 76 -183 59 -168 c 0
+ 47 -157 40 -143 40 -132 c 0
+ 40 -116 55 -103 83 -103 c 0
+ 142 -103 165 -162 228 -162 c 0
+ 299 -162 357 -112 357 -35 c 0xd0
+ 357 85 242 124 164 124 c 1
+ 164 142 l 1
+ 286 142 338 215 338 286 c 0
+ 338 343 311 385 242 385 c 0
+ 200 385 145 374 110 320 c 1xe0
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 12 subtable" three.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" three.sinf
@@ -168107,7 +168107,7 @@ EndChar
 
 StartChar: seven.onum
 Encoding: 1114152 -1 3941
-Width: 523
+Width: 520
 GlyphClass: 2
 Flags: MW
 HStem: 347 74<140.5 177 177 399>
