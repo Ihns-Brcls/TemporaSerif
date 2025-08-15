@@ -3,7 +3,7 @@ FontName: Ecdotica-Regular
 FullName: Ecdotica Regular
 FamilyName: Ecdotica
 Weight: Regular
-Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc. Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.  Portions copyright (c) 2009-2019 by Khaled Hosny. Portions copyright (c) by Daniel Benjamin Miller. All rights reserved.\n\nEcdotica = modified XITS with the TironianEt (U+204A) was combinated with IFAO Grec Unicode of Jean-Luc Fournet; the combination, correcting the kerning and other things, produce "Ecdotica", a simple font Times-like for textual criticism.
+Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc. Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.  Portions copyright (c) 2009-2019 by Khaled Hosny. Portions copyright (c) by Daniel Benjamin Miller. All rights reserved.\n\nEcdotica = The modified XITS font with addition of TironianEt (U+204A) was combinated with IFAO Grec Unicode of Jean-Luc Fournet; the combination, correcting the kerning and modifying part of oldstyle figures, produce "Ecdotica", a simple font Times-like for textual criticism.
 Version: 1.302
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1755298428
+ModificationTime: 1755299372
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
