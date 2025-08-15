@@ -1,1 +1,1 @@
-Ecdotica = modified XITS font with the TironianEt (U+204A) was combinated with IFAO Grec Unicode of Jean-Luc Fournet; the combination, correcting the kerning and modifying the oldstyle figures, produce "Ecdotica", a simple font Times-like for textual criticism.
+Ecdotica = The modified XITS font with addition of TironianEt (U+204A) was combinated with IFAO Grec Unicode of Jean-Luc Fournet; the combination, correcting the kerning and modifying part of oldstyle figures, produce "Ecdotica", a simple font Times-like for textual criticism.
