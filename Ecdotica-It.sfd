@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710416
-ModificationTime: 1755984027
+ModificationTime: 1755990083
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -166,7 +166,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65279 29 11
+WinInfo: 8236 29 11
 BeginPrivate: 5
 BlueValues 15 [-18 0 653 667]
 BlueShift 1 0
@@ -174,7 +174,7 @@ StdHW 4 [31]
 StdVW 4 [42]
 StemSnapH 31 [23 28 31 34 38 43 48 53 60 64]
 EndPrivate
-BeginChars: 65918 4147
+BeginChars: 65918 4148
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -3255,19 +3255,19 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 93
-Width: 275
+Width: 200
 GlyphClass: 2
 Flags: MW
-HStem: -18 20 646 20<105 171 171 171>
-VStem: 105 66<-18 666>
+HStem: 675 20G
+VStem: 78 41<-216 694 -216 694>
 LayerCount: 2
 Fore
 SplineSet
-171 -18 m 1
- 105 -18 l 1
- 105 666 l 1
- 171 666 l 1
- 171 -18 l 1
+119 694 m 1
+ 119 -216 l 1
+ 78 -216 l 1
+ 78 694 l 1
+ 119 694 l 1
 EndSplineSet
 EndChar
 
@@ -175883,6 +175883,32 @@ SplineSet
  465 23 430 -14 380 -14 c 0
  359 -14 343 -7 333 10 c 0
  323 27 320 50 326 79 c 1x60
+EndSplineSet
+EndChar
+
+StartChar: uni204A
+Encoding: 8266 8266 4147
+Width: 440
+Flags: W
+HStem: -11 60<185.5 203> 353 61<97.5 369 140 258>
+VStem: 52 88<97 154.5>
+LayerCount: 2
+Fore
+SplineSet
+163 -11 m 0
+ 100 -11 52 25 52 95 c 0
+ 52 214 153 286 259 340 c 0
+ 270 346 270 353 258 353 c 2
+ 103 353 l 2
+ 92 353 128 414 140 414 c 2
+ 369 414 l 2
+ 385 414 391 411 391 405 c 0
+ 391 397 385 389 373 381 c 0
+ 202 271 140 213 140 121 c 0
+ 140 73 167 49 204 49 c 0
+ 239 49 276 71 328 114 c 0
+ 334 120 351 108 346 101 c 0
+ 301 34 243 -11 163 -11 c 0
 EndSplineSet
 EndChar
 EndChars
