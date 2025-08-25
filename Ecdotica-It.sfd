@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710416
-ModificationTime: 1756014292
+ModificationTime: 1756134087
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -166,7 +166,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8236 29 11
+WinInfo: 65482 29 11
 BeginPrivate: 5
 BlueValues 15 [-18 0 653 667]
 BlueShift 1 0
@@ -33679,16 +33679,16 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-339 477 m 4
- 268 477 197 388 165 250 c 4
- 135 120 152 20 235 20 c 0
- 306 20 372 89 410 253 c 4
- 431 346 435 477 339 477 c 4
-347 505 m 4
- 464 505 530 386 497 243 c 4
- 466 108 343 -8 228 -8 c 0
- 112 -8 41 100 74 243 c 4
- 111 402 235 505 347 505 c 4
+343 493 m 4
+ 272 493 201 404 169 266 c 4
+ 139 136 152 20 235 20 c 0
+ 306 20 375 105 413 269 c 4
+ 434 362 439 493 343 493 c 4
+351 521 m 4
+ 468 521 533 402 500 259 c 4
+ 469 124 343 -8 228 -8 c 0
+ 112 -8 45 116 78 259 c 4
+ 115 418 239 521 351 521 c 4
 EndSplineSet
 Substitution2: "Ecdotica-Regular-'ss11' Style Set 11 lookup 14 subtable" zero.onum.ss11
 Substitution2: "Ecdotica-Regular-'sinf' Scientific Inferiors lookup 13 subtable" zero.sinf
@@ -33705,19 +33705,19 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-309.032226562 0 m 5
- 78.0322265625 0 l 1
- 81.0322265625 11 l 1
- 122.032226562 14 157.032226562 29 162.032226562 50 c 2
- 253.032226562 444 l 2
- 258.032226562 464 236.032226562 470 215.032226562 470 c 0
- 208.032226562 470 202.032226562 470 196.032226562 469 c 2
- 170.032226562 464 l 1
- 169.032226562 478 l 1
- 353.032226562 510 l 5
- 255.032226562 83 l 6
- 244.032226562 34 239.032226562 12 312.032226562 12 c 5
- 309.032226562 0 l 5
+309 0 m 5
+ 78 0 l 1
+ 81 11 l 1
+ 122 14 157 29 162 50 c 2
+ 253 444 l 2
+ 258 464 236 470 215 470 c 0
+ 208 470 202 470 196 469 c 2
+ 170 464 l 1
+ 169 478 l 1
+ 353 510 l 5
+ 255 83 l 6
+ 244 34 239 12 312 12 c 5
+ 309 0 l 5
 EndSplineSet
 Substitution2: "Ecdotica-Regular-'ss11' Style Set 11 lookup 14 subtable" one.onum.ss11
 Substitution2: "Ecdotica-Regular-'sinf' Scientific Inferiors lookup 13 subtable" one.sinf
@@ -33734,23 +33734,23 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-163 80 m 1
+163 80 m 5
  162 78 l 1
  316 78 l 2
  391 78 391 86 426 137 c 1
  441 131 l 1
  370 0 l 1
  35 0 l 1
- 38 10 l 5
- 107 68 193 147 236 188 c 4
- 321 269 353 291 374 376 c 0
- 389 436 357 473 291 473 c 0
- 245 473 194 449 143 371 c 1
- 127 378 l 1
- 181 471 249 535 345 535 c 0
- 432 535 479 482 459 397 c 0
- 444 331 389 283 320 219 c 0
- 292 193 242 149 163 80 c 1
+ 38 10 l 1
+ 107 68 191 139 234 180 c 0
+ 319 261 351 282 372 367 c 0
+ 387 427 355 464 289 464 c 0
+ 243 464 192 440 141 362 c 1
+ 125 369 l 1
+ 179 462 247 526 343 526 c 0
+ 430 526 477 473 457 388 c 0
+ 442 322 386 274 317 210 c 0
+ 289 184 246 149 163 80 c 5
 EndSplineSet
 Substitution2: "Ecdotica-Regular-'ss11' Style Set 11 lookup 14 subtable" two.onum.ss11
 Substitution2: "Ecdotica-Regular-'sinf' Scientific Inferiors lookup 13 subtable" two.sinf
@@ -33954,29 +33954,29 @@ EndChar
 
 StartChar: nine.onum
 Encoding: 65547 -1 873
-Width: 463
+Width: 455
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-9 -184 m 5
- 13 -168 l 5
- 161 -141 276 -39 364 130 c 5
- 363 132 l 5
- 363 132 307 74 198 74 c 4
- 98 74 64 166 89 275 c 4
- 120 404 218 508 331 508 c 4
- 391 508 441 485 467 435 c 4
- 493 385 494 313 475 229 c 4
- 418 -20 203 -180 9 -184 c 5
-397 254 m 4
- 428 387 403 480 322 480 c 4
- 294 480 266 471 245 449 c 4
- 220 422 198 388 186 334 c 4
- 159 215 174 118 248 118 c 4
- 292 118 350 138 369 166 c 4
- 380 181 389 220 397 254 c 4
+6 -184 m 5
+ 10 -168 l 5
+ 158 -141 274 -39 362 130 c 5
+ 360 132 l 5
+ 360 132 304 74 195 74 c 4
+ 95 74 61 166 86 275 c 4
+ 117 404 215 508 328 508 c 4
+ 388 508 438 485 464 435 c 4
+ 490 385 491 313 472 229 c 4
+ 415 -20 200 -180 6 -184 c 5
+394 254 m 4
+ 425 387 401 480 320 480 c 4
+ 292 480 264 471 243 449 c 4
+ 218 422 196 388 184 334 c 4
+ 157 215 171 118 245 118 c 4
+ 289 118 347 138 366 166 c 4
+ 377 181 386 220 394 254 c 4
 EndSplineSet
 Substitution2: "Ecdotica-Regular-'ss11' Style Set 11 lookup 14 subtable" nine.onum.ss11
 Substitution2: "Ecdotica-Regular-'sinf' Scientific Inferiors lookup 13 subtable" nine.sinf
