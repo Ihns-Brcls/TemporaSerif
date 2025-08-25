@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1756134048
+ModificationTime: 1756134745
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -159669,16 +159669,16 @@ VStem: 20 96<174 308 174 311.5> 378 96<164.5 288.5>
 LayerCount: 2
 Fore
 SplineSet
-247 493 m 4
- 171 493 116 404 116 266 c 4
- 116 136 159 20 248 20 c 0
- 324 20 378 105 378 269 c 4
- 378 362 350 493 247 493 c 4
-248 521 m 4
- 374 521 474 402 474 259 c 4
+247 484 m 4
+ 171 484 116 404 116 266 c 0
+ 116 136 159 31 248 31 c 0
+ 324 31 378 105 378 269 c 0
+ 378 362 350 484 247 484 c 4
+248 521 m 0
+ 374 521 474 402 474 259 c 0
  474 124 372 -8 248 -8 c 0
- 123 -8 20 116 20 259 c 4
- 20 418 128 521 248 521 c 4
+ 123 -8 20 116 20 259 c 0
+ 20 418 128 521 248 521 c 0
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" zero.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" zero.sinf
@@ -160684,16 +160684,16 @@ VStem: 20 96<174 308 174 311.5> 378 96<164.5 288.5>
 LayerCount: 2
 Fore
 SplineSet
-247 493 m 4
- 171 493 116 404 116 266 c 4
- 116 136 159 20 248 20 c 0
- 324 20 378 105 378 269 c 4
- 378 362 350 493 247 493 c 4
-248 521 m 4
- 374 521 474 402 474 259 c 4
+247 484 m 4
+ 171 484 116 404 116 266 c 0
+ 116 136 159 31 248 31 c 0
+ 324 31 378 105 378 269 c 0
+ 378 362 350 484 247 484 c 4
+248 521 m 0
+ 374 521 474 402 474 259 c 0
  474 124 372 -8 248 -8 c 0
- 123 -8 20 116 20 259 c 4
- 20 418 128 521 248 521 c 4
+ 123 -8 20 116 20 259 c 0
+ 20 418 128 521 248 521 c 0
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" zero.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" zero.sups
