@@ -2,4 +2,4 @@ TemporaNR = The modified XITS font with addition of TironianEt (U+204A) was comb
 
 This font is a derivative work based on:
 - XITS (SIL Open Font License),
-- IFAO-Grec Unicode by Jean-Luc Fournet and Ralph Hancock with help of Adam Bülow-Jacobsen (without rights).
+- IFAO-Grec Unicode by Jean-Luc Fournet and Ralph Hancock with help of Adam Bülow-Jacobsen (available without rights).
