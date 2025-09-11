@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710416
-ModificationTime: 1756958085
+ModificationTime: 1757612958
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -165,7 +165,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 28 11
+WinInfo: 1114064 28 11
 BeginPrivate: 5
 BlueValues 15 [-18 0 653 667]
 BlueShift 1 0
@@ -161119,25 +161119,27 @@ EndChar
 
 StartChar: one.onum
 Encoding: 1114126 -1 3769
-Width: 367
+Width: 334
 GlyphClass: 2
 Flags: W
+HStem: 0 11<48 80.636 237.75 276> 464 14<136.857 176.004>
+VStem: 45 275
 LayerCount: 2
 Fore
 SplineSet
-309 0 m 1
- 78 0 l 1
- 81 11 l 1
- 122 14 157 29 162 50 c 2
- 253 444 l 2
- 258 464 236 470 215 470 c 0
- 208 470 202 470 196 469 c 2
- 170 464 l 1
- 169 478 l 1
- 353 510 l 1
- 255 83 l 2
- 244 34 239 12 312 12 c 1
- 309 0 l 1
+276 0 m 1
+ 45 0 l 1
+ 48 11 l 1
+ 89 14 124 29 129 50 c 2
+ 220 444 l 2
+ 225 464 203 470 182 470 c 0
+ 175 470 169 470 163 469 c 2
+ 137 464 l 1
+ 136 478 l 1
+ 320 510 l 1
+ 222 83 l 2
+ 211 34 206 12 279 12 c 1
+ 276 0 l 1
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" one.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" one.sinf
@@ -161184,28 +161186,29 @@ Encoding: 1114128 -1 3771
 Width: 462
 GlyphClass: 2
 Flags: W
+HStem: -163 36<62 205.371> 179 16<182 209.806> 459 60<249.533 349.271>
 LayerCount: 2
 Fore
 SplineSet
-136 330 m 1
- 120 333 l 1
- 174 446 262 494 338 494 c 0
- 417 494 472 446 453 362 c 0
- 442 314 407 269 335 222 c 1
- 405 198 431 134 412 50 c 0
- 375 -111 235 -188 91 -188 c 0
- 33 -188 3 -164 10 -132 c 0
- 16 -107 35 -95 54 -95 c 0
- 64 -95 81 -98 91 -109 c 0
- 126 -145 154 -152 179 -152 c 0
- 239 -152 310 -94 330 -9 c 0
- 350 76 323 121 270 142 c 0
- 249 150 214 154 179 154 c 1
- 182 170 l 1
- 214 176 244 192 266 204 c 0
- 317 230 358 272 370 324 c 0
- 386 392 348 434 287 434 c 0
- 238 434 182 402 136 330 c 1
+136 355 m 5
+ 120 358 l 5
+ 174 471 262 519 338 519 c 4
+ 417 519 472 471 453 387 c 4
+ 442 339 407 294 335 247 c 5
+ 405 223 431 159 412 75 c 4
+ 375 -86 235 -163 91 -163 c 4
+ 33 -163 3 -139 10 -107 c 4
+ 16 -82 35 -70 54 -70 c 4
+ 64 -70 81 -73 91 -84 c 4
+ 126 -120 154 -127 179 -127 c 4
+ 239 -127 310 -69 330 16 c 4
+ 350 101 323 146 270 167 c 4
+ 249 175 214 179 179 179 c 5
+ 182 195 l 5
+ 214 201 244 217 266 229 c 4
+ 317 255 358 297 370 349 c 4
+ 386 417 348 459 287 459 c 4
+ 238 459 182 427 136 355 c 5
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" three.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" three.sinf
@@ -161219,27 +161222,28 @@ Encoding: 1114129 -1 3772
 Width: 464
 GlyphClass: 2
 Flags: W
+HStem: 3 66<71 272 361 419>
 LayerCount: 2
 Fore
 SplineSet
-364 402 m 1
- 362 402 l 1
- 73 77 l 1
- 71 66 l 1
- 287 66 l 1
- 364 402 l 1
-419 505 m 1
- 462 505 l 1
- 361 66 l 1
- 457 66 l 1
- 441 0 l 1
- 347 0 l 1
- 306 -177 l 1
- 231 -177 l 1
- 272 0 l 1
- 13 0 l 1
- 29 70 l 1
- 419 505 l 1
+364 405 m 1
+ 362 405 l 1
+ 73 80 l 1
+ 71 69 l 1
+ 287 69 l 1
+ 364 405 l 1
+419 508 m 1
+ 462 508 l 1
+ 361 69 l 1
+ 435 69 l 1
+ 419 3 l 1
+ 347 3 l 1
+ 320 -104 l 1
+ 245 -104 l 1
+ 272 3 l 1
+ 13 3 l 1
+ 29 73 l 1
+ 419 508 l 1
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" four.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" four.sinf
@@ -161253,25 +161257,26 @@ Encoding: 1114130 -1 3773
 Width: 463
 GlyphClass: 2
 Flags: W
+HStem: -176 40<67.5 205.095> 422 76<278 464>
 LayerCount: 2
 Fore
 SplineSet
-278 486 m 1
- 464 486 l 2
- 497 486 520 510 520 510 c 1
- 527 507 l 1
- 464 410 l 1
- 262 410 l 1
- 203 321 l 1
- 361 303 448 215 415 70 c 0
- 374 -107 225 -188 94 -188 c 0
- 41 -188 -8 -168 3 -122 c 0
- 7 -103 29 -86 47 -86 c 0
- 64 -86 78 -87 104 -109 c 0
- 122 -123 140 -148 175 -148 c 0
- 244 -148 317 -69 338 24 c 0
- 368 154 270 222 114 242 c 1
- 278 486 l 1
+278 498 m 5
+ 464 498 l 6
+ 497 498 520 522 520 522 c 5
+ 527 519 l 5
+ 464 422 l 5
+ 262 422 l 5
+ 203 333 l 5
+ 361 315 448 227 415 82 c 4
+ 374 -95 225 -176 94 -176 c 4
+ 41 -176 -8 -156 3 -110 c 4
+ 7 -91 29 -74 47 -74 c 4
+ 64 -74 78 -75 104 -97 c 4
+ 122 -111 140 -136 175 -136 c 4
+ 244 -136 317 -57 338 36 c 4
+ 368 166 270 234 114 254 c 5
+ 278 498 l 5
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" five.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" five.sinf
@@ -161316,18 +161321,19 @@ Encoding: 1114132 -1 3775
 Width: 463
 GlyphClass: 2
 Flags: W
+HStem: 434 74<192 445>
 LayerCount: 2
 Fore
 SplineSet
-192 509 m 1
- 539 509 l 1
- 181 -164 l 1
- 123 -164 l 1
- 445 435 l 1
- 242 435 l 2
- 200 435 172 426 118 356 c 1
- 100 361 l 1
- 192 509 l 1
+192 508 m 5
+ 539 508 l 5
+ 181 -165 l 5
+ 123 -165 l 5
+ 445 434 l 5
+ 242 434 l 6
+ 200 434 172 425 118 355 c 5
+ 100 360 l 5
+ 192 508 l 5
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" seven.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" seven.sinf
@@ -161377,26 +161383,27 @@ Encoding: 1114134 -1 3777
 Width: 455
 GlyphClass: 2
 Flags: W
+HStem: -183 16<10 42.5774> 75 44<145 301.702> 481 28<266.024 365.394>
 LayerCount: 2
 Fore
 SplineSet
-6 -184 m 1
- 10 -168 l 1
- 158 -141 274 -39 362 130 c 1
- 360 132 l 1
- 360 132 304 74 195 74 c 0
- 95 74 61 166 86 275 c 0
- 117 404 215 508 328 508 c 0
- 388 508 438 485 464 435 c 0
- 490 385 491 313 472 229 c 0
- 415 -20 200 -180 6 -184 c 1
-394 254 m 0
- 425 387 401 480 320 480 c 0
- 292 480 264 471 243 449 c 0
- 218 422 196 388 184 334 c 0
- 157 215 171 118 245 118 c 0
- 289 118 347 138 366 166 c 0
- 377 181 386 220 394 254 c 0
+6 -183 m 5
+ 10 -167 l 5
+ 158 -140 274 -38 362 131 c 5
+ 360 133 l 5
+ 360 133 304 75 195 75 c 4
+ 95 75 61 167 86 276 c 4
+ 117 405 215 509 328 509 c 4
+ 388 509 438 486 464 436 c 4
+ 490 386 491 314 472 230 c 4
+ 415 -19 200 -179 6 -183 c 5
+394 255 m 4
+ 425 388 401 481 320 481 c 4
+ 292 481 264 472 243 450 c 4
+ 218 423 196 389 184 335 c 4
+ 157 216 171 119 245 119 c 4
+ 289 119 347 139 366 167 c 4
+ 377 182 386 221 394 255 c 4
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 14 subtable" nine.onum.ss11
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" nine.sinf
@@ -162095,6 +162102,7 @@ Encoding: 1114157 -1 3800
 Width: 464
 GlyphClass: 2
 Flags: W
+HStem: -8 32<191.03 287.578> 489 32<291.524 388.587>
 LayerCount: 2
 Fore
 SplineSet
@@ -162117,25 +162125,27 @@ EndChar
 
 StartChar: one.onum.ss11
 Encoding: 1114158 -1 3801
-Width: 367
+Width: 334
 GlyphClass: 2
 Flags: W
+HStem: 0 11<48 80.636 237.75 276> 464 14<136.857 176.004>
+VStem: 45 275
 LayerCount: 2
 Fore
 SplineSet
-309 0 m 1
- 78 0 l 1
- 81 11 l 1
- 122 14 157 29 162 50 c 2
- 253 444 l 2
- 258 464 236 470 215 470 c 0
- 208 470 202 470 196 469 c 2
- 170 464 l 1
- 169 478 l 1
- 353 510 l 1
- 255 83 l 2
- 244 34 239 12 312 12 c 1
- 309 0 l 1
+276 0 m 1
+ 45 0 l 1
+ 48 11 l 1
+ 89 14 124 29 129 50 c 2
+ 220 444 l 2
+ 225 464 203 470 182 470 c 0
+ 175 470 169 470 163 469 c 2
+ 137 464 l 1
+ 136 478 l 1
+ 320 510 l 1
+ 222 83 l 2
+ 211 34 206 12 279 12 c 1
+ 276 0 l 1
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" one.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" one.sups
@@ -162148,6 +162158,7 @@ Encoding: 1114159 -1 3802
 Width: 463
 GlyphClass: 2
 Flags: W
+HStem: 0 78<162 370> 464 62<253.499 355.767>
 LayerCount: 2
 Fore
 SplineSet
@@ -162180,28 +162191,29 @@ Encoding: 1114160 -1 3803
 Width: 462
 GlyphClass: 2
 Flags: W
+HStem: -145 36<62 205.371> 197 16<182 209.806> 477 60<249.533 349.271>
 LayerCount: 2
 Fore
 SplineSet
-136 330 m 1
- 120 333 l 1
- 174 446 262 494 338 494 c 0
- 417 494 472 446 453 362 c 0
- 442 314 407 269 335 222 c 1
- 405 198 431 134 412 50 c 0
- 375 -111 235 -188 91 -188 c 0
- 33 -188 3 -164 10 -132 c 0
- 16 -107 35 -95 54 -95 c 0
- 64 -95 81 -98 91 -109 c 0
- 126 -145 154 -152 179 -152 c 0
- 239 -152 310 -94 330 -9 c 0
- 350 76 323 121 270 142 c 0
- 249 150 214 154 179 154 c 1
- 182 170 l 1
- 214 176 244 192 266 204 c 0
- 317 230 358 272 370 324 c 0
- 386 392 348 434 287 434 c 0
- 238 434 182 402 136 330 c 1
+136 355 m 5
+ 120 358 l 5
+ 174 471 262 519 338 519 c 4
+ 417 519 472 471 453 387 c 4
+ 442 339 407 294 335 247 c 5
+ 405 223 431 159 412 75 c 4
+ 375 -86 235 -163 91 -163 c 4
+ 33 -163 3 -139 10 -107 c 4
+ 16 -82 35 -70 54 -70 c 4
+ 64 -70 81 -73 91 -84 c 4
+ 126 -120 154 -127 179 -127 c 4
+ 239 -127 310 -69 330 16 c 4
+ 350 101 323 146 270 167 c 4
+ 249 175 214 179 179 179 c 5
+ 182 195 l 5
+ 214 201 244 217 266 229 c 4
+ 317 255 358 297 370 349 c 4
+ 386 417 348 459 287 459 c 4
+ 238 459 182 427 136 355 c 5
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" three.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" three.sups
@@ -162214,27 +162226,28 @@ Encoding: 1114161 -1 3804
 Width: 464
 GlyphClass: 2
 Flags: W
+HStem: 36 66<71 272 361 425>
 LayerCount: 2
 Fore
 SplineSet
-364 402 m 1
- 362 402 l 1
- 73 77 l 1
- 71 66 l 1
- 287 66 l 1
- 364 402 l 1
-419 505 m 1
- 462 505 l 1
- 361 66 l 1
- 457 66 l 1
- 441 0 l 1
- 347 0 l 1
- 306 -177 l 1
- 231 -177 l 1
- 272 0 l 1
- 13 0 l 1
- 29 70 l 1
- 419 505 l 1
+364 405 m 1
+ 362 405 l 1
+ 73 80 l 1
+ 71 69 l 1
+ 287 69 l 1
+ 364 405 l 1
+419 508 m 1
+ 462 508 l 1
+ 361 69 l 1
+ 435 69 l 1
+ 419 3 l 1
+ 347 3 l 1
+ 320 -104 l 1
+ 245 -104 l 1
+ 272 3 l 1
+ 13 3 l 1
+ 29 73 l 1
+ 419 508 l 1
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" four.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" four.sups
@@ -162247,25 +162260,26 @@ Encoding: 1114162 -1 3805
 Width: 463
 GlyphClass: 2
 Flags: W
+HStem: -148 40<67.5 205.095> 450 76<278 464>
 LayerCount: 2
 Fore
 SplineSet
-278 486 m 1
- 464 486 l 2
- 497 486 520 510 520 510 c 1
- 527 507 l 1
- 464 410 l 1
- 262 410 l 1
- 203 321 l 1
- 361 303 448 215 415 70 c 0
- 374 -107 225 -188 94 -188 c 0
- 41 -188 -8 -168 3 -122 c 0
- 7 -103 29 -86 47 -86 c 0
- 64 -86 78 -87 104 -109 c 0
- 122 -123 140 -148 175 -148 c 0
- 244 -148 317 -69 338 24 c 0
- 368 154 270 222 114 242 c 1
- 278 486 l 1
+278 498 m 5
+ 464 498 l 6
+ 497 498 520 522 520 522 c 5
+ 527 519 l 5
+ 464 422 l 5
+ 262 422 l 5
+ 203 333 l 5
+ 361 315 448 227 415 82 c 4
+ 374 -95 225 -176 94 -176 c 4
+ 41 -176 -8 -156 3 -110 c 4
+ 7 -91 29 -74 47 -74 c 4
+ 64 -74 78 -75 104 -97 c 4
+ 122 -111 140 -136 175 -136 c 4
+ 244 -136 317 -57 338 36 c 4
+ 368 166 270 234 114 254 c 5
+ 278 498 l 5
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" five.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" five.sups
@@ -162278,6 +162292,7 @@ Encoding: 1114163 -1 3806
 Width: 463
 GlyphClass: 2
 Flags: W
+HStem: -8 28<205.838 296.071> 386 48<270.881 372.194> 668 16<523.798 566>
 LayerCount: 2
 Fore
 SplineSet
@@ -162308,18 +162323,19 @@ Encoding: 1114164 -1 3807
 Width: 463
 GlyphClass: 2
 Flags: W
+HStem: 473 74<192 445>
 LayerCount: 2
 Fore
 SplineSet
-192 509 m 1
- 539 509 l 1
- 181 -164 l 1
- 123 -164 l 1
- 445 435 l 1
- 242 435 l 2
- 200 435 172 426 118 356 c 1
- 100 361 l 1
- 192 509 l 1
+192 508 m 5
+ 539 508 l 5
+ 181 -165 l 5
+ 123 -165 l 5
+ 445 434 l 5
+ 242 434 l 6
+ 200 434 172 425 118 355 c 5
+ 100 360 l 5
+ 192 508 l 5
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" seven.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" seven.sups
@@ -162332,6 +162348,7 @@ Encoding: 1114165 -1 3808
 Width: 462
 GlyphClass: 2
 Flags: W
+HStem: -8 28<188.121 292.824> 646 28<315.113 415.708>
 LayerCount: 2
 Fore
 SplineSet
@@ -162367,26 +162384,27 @@ Encoding: 1114166 -1 3809
 Width: 455
 GlyphClass: 2
 Flags: W
+HStem: -138 16<10 42.5774> 120 44<145 301.702> 526 28<266.024 365.394>
 LayerCount: 2
 Fore
 SplineSet
-6 -184 m 1
- 10 -168 l 1
- 158 -141 274 -39 362 130 c 1
- 360 132 l 1
- 360 132 304 74 195 74 c 0
- 95 74 61 166 86 275 c 0
- 117 404 215 508 328 508 c 0
- 388 508 438 485 464 435 c 0
- 490 385 491 313 472 229 c 0
- 415 -20 200 -180 6 -184 c 1
-394 254 m 0
- 425 387 401 480 320 480 c 0
- 292 480 264 471 243 449 c 0
- 218 422 196 388 184 334 c 0
- 157 215 171 118 245 118 c 0
- 289 118 347 138 366 166 c 0
- 377 181 386 220 394 254 c 0
+6 -183 m 5
+ 10 -167 l 5
+ 158 -140 274 -38 362 131 c 5
+ 360 133 l 5
+ 360 133 304 75 195 75 c 4
+ 95 75 61 167 86 276 c 4
+ 117 405 215 509 328 509 c 4
+ 388 509 438 486 464 436 c 4
+ 490 386 491 314 472 230 c 4
+ 415 -19 200 -179 6 -183 c 5
+394 255 m 4
+ 425 388 401 481 320 481 c 4
+ 292 481 264 472 243 450 c 4
+ 218 423 196 389 184 335 c 4
+ 157 216 171 119 245 119 c 4
+ 289 119 347 139 366 167 c 4
+ 377 182 386 221 394 255 c 4
 EndSplineSet
 Substitution2: "'sinf' Scientific Inferiors lookup 13 subtable" nine.sinf
 Substitution2: "'sups' Superscript lookup 12 subtable" nine.sups
