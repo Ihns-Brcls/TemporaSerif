@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1156455862
-ModificationTime: 1759004186
+ModificationTime: 1759038628
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -469,22 +469,19 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 49 contextual 2" 0 0 0 
  1 0 1
   Coverage: 4 q.sc
   FCoverage: 9 u.sc v.sc
- 1
-  SeqLookup: 0 ""
+ 0
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 49 contextual 1" 0 0 0 1
  1 0 1
   Coverage: 1 Q
   FCoverage: 13 u v u.sc v.sc
- 1
-  SeqLookup: 0 ""
+ 0
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 49 contextual 0" 0 0 0 1
  1 0 1
   Coverage: 5 f f_f
   FCoverage: 746 parenright question T V W Y bracketright b h i j k l bar braceright brokenbar ordfeminine uni00B2 uni00B3 paragraph uni00B9 Yacute agrave atilde adieresis egrave edieresis igrave iacute icircumflex idieresis ograve otilde odieresis ugrave udieresis thorn ydieresis amacron abreve emacron ebreve ecaron hcircumflex hbar itilde imacron ibreve iogonek ij jcircumflex lacute uni013C lcaron ldot lslash omacron umacron ubreve uni0180 uni0185 uni0196 uni019A uni01D0 uni01F0 uni0209 uni020B uni021F uni0234 uni0249 uni1E03 uni1E05 uni1E07 uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1EC9 uni1ECB uni1EFB quoteleft quoteright quotedblleft quotedblright uni2047 uni2048 uni2C61 h.alt
- 1
-  SeqLookup: 0 ""
+ 0
 EndFPST
 ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 38 contextual 1" 0 0 0 1
  2 0 0
@@ -605,20 +602,20 @@ ChainSub2: coverage "'frac' Diagonal Fractions lookup 5 contextual 0" 0 0 0 1
   SeqLookup: 0 "Single Substitution lookup 3"
 EndFPST
 LangName: 1033 "Copyright +AKkA 2012-2024 The Libertinus Project Authors." "" "" "FontForge 2.0 : Tempora Serif Regular : 27-9-2025" "" "Version 7.051;RELEASE" "" "" "Caleb Maclennan" "Philipp H. Poll, Khaled Hosny" "" "https://github.com/alerque/libertinus" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" "https://openfontlicense.org"
-OtfFeatName: 'ss01' 1033 "Low diaeresis on 'A', 'E', 'O'"
-OtfFeatName: 'ss02' 1033 "Swashy 'J' 'K' 'R'"
-OtfFeatName: 'ss03' 1033 "'double s' to two 's'"
-OtfFeatName: 'ss04' 1033 "Upper case 'double s' to two 'S'"
-OtfFeatName: 'ss05' 1033 "Crossed 'W'"
-OtfFeatName: 'ss06' 1033 "Swash '&'"
 OtfFeatName: 'ss07' 1033 "Swap 'Eng' forms"
+OtfFeatName: 'ss06' 1033 "Swash '&'"
+OtfFeatName: 'ss05' 1033 "Crossed 'W'"
+OtfFeatName: 'ss04' 1033 "Upper case 'double s' to two 'S'"
+OtfFeatName: 'ss03' 1033 "'double s' to two 's'"
+OtfFeatName: 'ss02' 1033 "Swashy 'J' 'K' 'R'"
+OtfFeatName: 'ss01' 1033 "Low diaeresis on 'A', 'E', 'O'"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 29 11
+WinInfo: 8207 29 11
 BeginPrivate: 8
 BlueValues 47 [-12 0 429 442 460 472 600 610 645 658 688 698]
 OtherBlues 11 [-238 -227]
@@ -76696,27 +76693,31 @@ EndChar
 
 StartChar: uni204A
 Encoding: 8266 8266 1794
-Width: 438
+Width: 462
 GlyphClass: 2
-Flags: MW
-HStem: 324 85<209 221.5> 417 20G<59 59>
-VStem: 59 345<423 437>
+Flags: HMW
+HStem: 0 55<137.5 295 158 295 295 298> 395 44<190.5 238>
+VStem: 288 89<308 340.5>
 LayerCount: 2
 Fore
 SplineSet
-67 337 m 1
- 59 437 l 1
- 117 418 179 409 239 409 c 0
- 277 409 314 413 349 419 c 1
- 349 419 375 444 396 444 c 0
- 401 444 404 438 404 429 c 0
- 404 417 400 402 397 392 c 0
- 322 139 296 -129 296 -129 c 1
- 261 -130 l 1
- 258 -124 l 2
- 258 -123 293 151 348 343 c 1
- 297 330 246 324 197 324 c 0
- 150 324 106 329 67 337 c 1
+97.0517578125 357.740234375 m 1
+ 115.825195312 382.208007812 125.991458902 382 177 382 c 2
+ 326 384 l 1
+ 176 269 l 6
+ 110.499650105 218.78306508 95 152 95 106 c 0
+ 95 45 143 -2 244 -2 c 0
+ 339 -2 400 49 417 101 c 1
+ 410 109 398 113 383 116 c 1
+ 362 63 320.954101562 45.87109375 272 48 c 0
+ 226 50 208.350503354 91.3815436379 205 127 c 0
+ 199.528705024 185.164120653 275.638222345 290.241139491 312 319 c 6
+ 422 406 l 1
+ 411 439 l 1
+ 401 438 347 437 322 437 c 2
+ 174 437 l 2
+ 134 437 83 435 83 435 c 2
+ 77.0028968014 434.868195534 81.8466796875 360.45703125 97.0517578125 357.740234375 c 1
 EndSplineSet
 EndChar
 
