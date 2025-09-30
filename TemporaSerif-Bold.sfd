@@ -3,7 +3,7 @@ FontName: TemporaSerif-Bold
 FullName: Tempora Serif Bold
 FamilyName: Tempora Serif
 Weight: Bold
-Copyright: Copyright Copyright 2012-2024 The Libertinus Project Authors.
+Copyright: Copyright Copyright 2012-2024 The Libertinus Project Authors.\n-------------------------------------------------------------\nCopyright (C) 2025, Ioannes Bracledius.
 Version: 5.0
 ItalicAngle: 0
 UnderlinePosition: -98
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1156455862
-ModificationTime: 1759123431
+ModificationTime: 1759196101
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
