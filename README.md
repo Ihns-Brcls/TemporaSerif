@@ -1,1 +1,2 @@
 TemporaSerif = The modified LibertinusSerif font with the modification of TironianEt (U+204A); modifying part of kerning, part of oldstyle figures and somes philological glyphs, produces "TemporaSerif", a font for textual criticism for using in LaTeX and text processors.
+The gothic glyphs G (U+1D50A), M (U+1D510) and P (U+1D513) was imported and modified from [Alt Standard](https://github.com/Ioannes-Brclds/AltStandard.git).
