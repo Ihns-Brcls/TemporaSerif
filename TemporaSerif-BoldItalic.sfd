@@ -3,7 +3,7 @@ FontName: TemporaSerif-BoldItalic
 FullName: Tempora Serif Bold Italic
 FamilyName: Tempora Serif
 Weight: Bold
-Copyright: Copyright Copyright 2012-2024 The Libertinus Project Authors.\n-------------------------------------------------------------\nCopyright (C) 2025, Ioannes Bracledius.
+Copyright: Copyright Copyright 2012-2024 The Libertinus Project Authors.
 Version: 5.0
 ItalicAngle: -12
 UnderlinePosition: -95
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1155510122
-ModificationTime: 1759196113
+ModificationTime: 1759735922
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -595,13 +595,13 @@ ChainSub2: coverage "'frac' Diagonal Fractions lookup 5 contextual 0" 0 0 0 1
   SeqLookup: 0 "Single Substitution lookup 3"
 EndFPST
 LangName: 1033 "Copyright +AKkA 2012-2024 The Libertinus Project Authors." "" "Bold Italic" "FontForge 2.0 : Tempora Serif Bold Italic : 27-9-2025" "" "Version 7.051;RELEASE" "" "" "Caleb Maclennan" "Philipp H. Poll, Khaled Hosny" "" "https://github.com/alerque/libertinus" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" "https://openfontlicense.org"
-OtfFeatName: 'ss01' 1033 "Low diaeresis on 'A', 'E', 'O'"
-OtfFeatName: 'ss02' 1033 "Swashy 'J' 'K' 'R'"
-OtfFeatName: 'ss03' 1033 "'double s' to two 's'"
-OtfFeatName: 'ss04' 1033 "Upper case 'double s' to two 'S'"
-OtfFeatName: 'ss05' 1033 "Crossed 'W'"
-OtfFeatName: 'ss06' 1033 "Swash '&'"
 OtfFeatName: 'ss07' 1033 "Swap 'Eng' forms"
+OtfFeatName: 'ss06' 1033 "Swash '&'"
+OtfFeatName: 'ss05' 1033 "Crossed 'W'"
+OtfFeatName: 'ss04' 1033 "Upper case 'double s' to two 'S'"
+OtfFeatName: 'ss03' 1033 "'double s' to two 's'"
+OtfFeatName: 'ss02' 1033 "Swashy 'J' 'K' 'R'"
+OtfFeatName: 'ss01' 1033 "Low diaeresis on 'A', 'E', 'O'"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -3685,40 +3685,40 @@ GlyphClass: 2
 Flags: HMW
 HStem: -234 21G -10 42<275 315 275 346> 377 67<205 232 205 232 317 319>
 VStem: 125 105<-110 7 65 309 309 321 321 338> 374 113<168 265 164 268>
-AnchorPoint: "Anchor-6" 276 215 basechar 0
-AnchorPoint: "Anchor-3" 517 580 basechar 0
-AnchorPoint: "Anchor-2" 84 -319 basechar 0
-AnchorPoint: "Anchor-0" 406 646 basechar 0
+AnchorPoint: "Anchor-6" 288 215 basechar 0
+AnchorPoint: "Anchor-3" 567 580 basechar 0
+AnchorPoint: "Anchor-2" 39 -319 basechar 0
+AnchorPoint: "Anchor-0" 463 646 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-163 309 m 2
- 177 366 172 374 130 379 c 1
- 131 385 132 405 136 411 c 1
- 194 420 261 434 293 444 c 0
- 305 444 308 439 306 427 c 2
- 306 427 303 405 298 377 c 1
- 303 377 l 1
- 339 409 399 444 422 444 c 0
- 464 444 505 429 524 394 c 0
- 546 355 557 280 543 224 c 0
- 507 77 379 -10 256 -10 c 0
- 236 -10 221 -4 206 7 c 1
- 175 -110 l 2
- 153 -193 161 -196 211 -200 c 1
- 214 -206 208 -228 201 -234 c 1
- 166 -233 124 -232 81 -232 c 0
- 38 -232 1 -233 -33 -234 c 1
- -36 -228 -30 -206 -23 -200 c 1
- 29 -195 35 -193 57 -110 c 2
- 163 309 l 2
-221 65 m 1
- 234 38 274 26 283 26 c 4
- 353 26 397 126 419 210 c 0
- 448 327 412 377 379 377 c 0
- 360 377 320 364 289 338 c 1
- 286 321 l 1
- 221 65 l 1
+184 309 m 2
+ 204 366 200 374 159 379 c 1
+ 161 385 163 405 168 411 c 1
+ 227 420 296 434 329 444 c 0
+ 341 444 343 439 340 427 c 2
+ 340 427 335 405 327 377 c 1
+ 332 377 l 1
+ 371 409 435 444 458 444 c 0
+ 500 444 539 429 554 394 c 0
+ 572 355 576 280 556 224 c 0
+ 505 77 367 -10 244 -10 c 0
+ 224 -10 210 -4 196 7 c 1
+ 152 -110 l 2
+ 121 -193 129 -196 179 -200 c 1
+ 181 -206 173 -228 165 -234 c 1
+ 130 -233 89 -232 46 -232 c 0
+ 3 -232 -35 -233 -69 -234 c 1
+ -71 -228 -63 -206 -55 -200 c 1
+ -2 -195 3 -193 34 -110 c 2
+ 184 309 l 2
+217 65 m 1
+ 227 38 266 26 275 26 c 4
+ 345 26 399 126 430 210 c 0
+ 471 327 441 377 408 377 c 0
+ 389 377 347 364 313 338 c 1
+ 309 321 l 1
+ 217 65 l 1
 EndSplineSet
 MultipleSubs2: "'smcp' Lowercase to Small Capitals lookup 10 subtable" p.sc
 Substitution2: "'subs' Subscript lookup 7 subtable" p.inferior

@@ -3,7 +3,7 @@ FontName: TemporaSerif-Italic
 FullName: Tempora Serif Italic
 FamilyName: Tempora Serif
 Weight: Regular
-Copyright: Copyright Copyright 2012-2024 The Libertinus Project Authors.\n-------------------------------------------------------------\nCopyright (C) 2025, Ioannes Bracledius.
+Copyright: Copyright Copyright 2012-2024 The Libertinus Project Authors.
 Version: 5.0
 ItalicAngle: -12
 UnderlinePosition: -95
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1155510122
-ModificationTime: 1759196089
+ModificationTime: 1759735890
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -597,7 +597,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 29 11
+WinInfo: 58 29 11
 BeginPrivate: 9
 BlueValues 47 [-12 1 429 442 460 474 567 578 645 658 688 698]
 OtherBlues 11 [-238 -227]
@@ -3919,44 +3919,44 @@ StartChar: p
 Encoding: 112 112 81
 Width: 460
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 HStem: -234 33 -10 34<219 243.5> 385 28 393 46<356.5 367>
-AnchorPoint: "Anchor-6" 269 215 basechar 0
-AnchorPoint: "Anchor-3" 514 580 basechar 0
-AnchorPoint: "Anchor-2" 75 -319 basechar 0
-AnchorPoint: "Anchor-0" 403 646 basechar 0
+AnchorPoint: "Anchor-6" 281 215 basechar 0
+AnchorPoint: "Anchor-3" 564 580 basechar 0
+AnchorPoint: "Anchor-2" 31 -319 basechar 0
+AnchorPoint: "Anchor-0" 460 646 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-237 368 m 0xe0
- 235 358 239 358 245 364 c 0
- 290 409 338 439 375 439 c 0xd0
- 458 439 493 341 465 235 c 0
- 444 154 406 92 356 46 c 0
- 312 7 266 -10 221 -10 c 0
- 195 -10 174 -4 156 6 c 0
- 149 10 146 11 142 -2 c 2
- 113 -110 l 2
- 91 -193 99 -197 156 -201 c 1
- 160 -207 154 -228 148 -234 c 1
- 121 -233 69 -232 37 -232 c 0
- 5 -232 -25 -233 -54 -234 c 1
- -58 -228 -51 -207 -45 -201 c 1
- 5 -198 15 -193 37 -110 c 2
- 149 317 l 2
- 164 375 156 380 114 385 c 1
- 114 391 115 407 119 413 c 1
- 177 422 214 431 240 442 c 0
- 246 442 248 439 248 434 c 0
- 250 424 244 398 237 368 c 0xe0
-243 331 m 0
- 229 317 223 308 218 287 c 2
+265 368 m 0xe0
+ 262 358 265 358 272 364 c 0
+ 322 409 373 439 410 439 c 0xd0
+ 493 439 518 341 479 235 c 0
+ 449 154 405 92 350 46 c 0
+ 302 7 254 -10 209 -10 c 0
+ 183 -10 163 -4 146 6 c 0
+ 139 10 136 11 131 -2 c 2
+ 91 -110 l 2
+ 60 -193 67 -197 124 -201 c 1
+ 127 -207 119 -228 112 -234 c 1
+ 85 -233 34 -232 2 -232 c 0
+ -30 -232 -61 -233 -90 -234 c 1
+ -93 -228 -84 -207 -77 -201 c 1
+ -27 -198 -16 -193 15 -110 c 2
+ 171 317 l 2
+ 192 375 185 380 144 385 c 1
+ 145 391 146 407 151 413 c 1
+ 210 422 249 431 276 442 c 0
+ 282 442 284 439 283 434 c 0
+ 284 424 275 398 265 368 c 0xe0
+267 331 m 0
+ 252 317 244 308 237 287 c 2
  170 105 l 2
- 160 69 162 63 174 45 c 0
- 185 29 212 24 226 24 c 0
- 317 24 367 126 389 208 c 0
- 419 321 393 393 341 393 c 0
- 318 393 272 363 243 331 c 0
+ 156 69 158 63 168 45 c 0
+ 177 29 204 24 218 24 c 0
+ 309 24 369 126 400 208 c 0
+ 442 321 423 393 371 393 c 0
+ 348 393 299 363 267 331 c 0
 EndSplineSet
 MultipleSubs2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as lookup 10 subtable" p.sc
 Substitution2: "'subs' Sub+AO0A-ndice lookup 7 subtable" p.inferior
